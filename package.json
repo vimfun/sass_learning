@@ -1,0 +1,29 @@
+{
+  "name": "sass_learning",
+  "version": "0.0.1",
+  "description": "the sass learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wangxulin/sass_learning.git"
+  },
+  "keywords": [
+    "sass",
+    "learning",
+    "nodejs"
+  ],
+  "author": "pyskell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangxulin/sass_learning/issues"
+  },
+  "homepage": "https://github.com/wangxulin/sass_learning#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-watch": "^4.3.5"
+  }
+}
